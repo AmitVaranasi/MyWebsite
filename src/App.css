@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+.aboutme_photo{
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+p{
+  width:500px;
+}
+.menu{
+  display:flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: blue;
+}
+.wrapperforthebody{
+  display: flex;
+  justify-content: space-evenly;
+}

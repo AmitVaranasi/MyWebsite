@@ -1,0 +1,11 @@
+.aboutme_photo{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  p{
+    width:500px;
+  }
+  
+  

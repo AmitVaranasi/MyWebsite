@@ -13,11 +13,15 @@ p{
 .menu{
   display:flex;
   flex-direction: column;
-  justify-content: flex-start;
-  align-items: flex-start;
-  background-color: blue;
+  background-color: green;
+  height: 900px;
 }
 .wrapperforthebody{
   display: flex;
-  justify-content: space-evenly;
+  flex-direction: row;
+  
 }
+.routeclass{
+  
+}
+

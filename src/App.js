@@ -38,9 +38,12 @@ class App extends Component{
       <div className = "menu">
       {this.state.menu}
       </div>
+      <div className = "routeclass">
       <Route exact path = '/' component = {Home} />
       <Route exact path = '/Education' component = {Education} />
       <Route exact path = '/Experience' component = {Experience} />
+      
+      </div>
       </div>
       
     </div>

@@ -4,8 +4,14 @@ class Experience extends Component{
     
     render(){
         return(
-            <div>
+            <div className = "experience">
+                <h2>
                 this is my experience
+                </h2>
+                <p>
+                    this is a para
+                </p>
+
             </div>
         )
     }

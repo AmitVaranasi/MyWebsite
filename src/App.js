@@ -17,7 +17,7 @@ function App() {
         <Navbar />
         <Layout>
           <Route exact path = '/' component = {Home} />
-          <Route  path = '/about' component = {Education} />
+          <Route  path = '/Education' component = {Education} />
         </Layout>
       </Router>
       </React.Fragment>

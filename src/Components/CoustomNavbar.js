@@ -20,7 +20,7 @@ class CoustomNavbar extends Component{
     render(){
         return(
             <Styles>
-    <Navbar expand="lg">
+    <Navbar expand="lg" scrolling fixed="top">
       <Navbar.Brand href="/">Amit Maheshwar Varanasi</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
@@ -32,7 +32,7 @@ class CoustomNavbar extends Component{
           </Nav.Item>
           <Nav.Item>
             <Nav.Link>
-              <Link to="/about" style = {{color:'white'}}>Education</Link>
+              <Link to="/Education" style = {{color:'white'}}>Education</Link>
             </Nav.Link>
           </Nav.Item>          
         </Nav>

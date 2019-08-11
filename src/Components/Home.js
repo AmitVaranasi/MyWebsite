@@ -10,7 +10,7 @@ class Home extends Component{
                 <Container>
                         <h1 style = {{textAlign:"center",marginTop:70}}>Profile</h1>
                       
-                        <h5 style = {{textAlign:"center"}}>I am a AI  Enthusiast</h5>
+                        <h5 style = {{textAlign:"center"}}>I am an AI  Enthusiast</h5>
                         <br />
                     <hr></hr>
                     <Row style = {{marginTop:70}}>
@@ -52,7 +52,7 @@ class Home extends Component{
                         </h3>
                         <p>
                             <strong>Name:</strong><br />
-                            Amit maheshwar Varanasi<br />
+                            Amit Maheshwar Varanasi<br />
                             <strong>Age:</strong><br />
                             19 years<br />
                             <strong>Location:</strong><br />

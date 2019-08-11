@@ -1,0 +1,15 @@
+ul  {
+    list-style: none;
+}
+ul li:nth-child(odd) {
+    font-weight: bold;    
+}
+.list{
+    display:grid;
+    grid-template-columns:20% 20% 20% 20%;
+   
+}
+.wrapperforlist{
+    display:flex;
+    justify-content: center;
+}

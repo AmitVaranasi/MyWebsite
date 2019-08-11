@@ -34,7 +34,17 @@ class CoustomNavbar extends Component{
             <Nav.Link>
               <Link to="/Education" style = {{color:'white'}}>Education</Link>
             </Nav.Link>
-          </Nav.Item>          
+          </Nav.Item> 
+          <Nav.Item>
+            <Nav.Link>
+              <Link to="/Skills" style = {{color:'white'}}>Skills</Link>
+            </Nav.Link>
+          </Nav.Item>
+          <Nav.Item>
+            <Nav.Link>
+              <Link to="/Projects" style = {{color:'white'}}>Projects</Link>
+            </Nav.Link>
+          </Nav.Item>           
         </Nav>
       </Navbar.Collapse>
     </Navbar>

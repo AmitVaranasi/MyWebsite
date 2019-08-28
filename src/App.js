@@ -22,6 +22,7 @@ function App() {
           <Route  path = '/Education' component = {Education} />
           <Route  path = '/Skills' component = {Skills} />
           <Route  path = '/Projects' component = {Projects} />
+          <Route  path = '/MyWebsite' component = {Home}/>
         </Layout>
       </Router>
       </React.Fragment>

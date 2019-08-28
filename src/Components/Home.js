@@ -29,11 +29,10 @@ class Home extends Component{
                         </Row>
                         <Row>
                                 <p>
-                                I am a director of brand marketing, with experience managing global teams and multi-million-dollar campaigns. 
-                                him background in brand strategy, visual design, and account management inform him mindful but competitive 
-                                approach. I am fueled by him passion for understanding the nuances of cross-cultural advertising. She considers
-                                 himself a ‘forever student,’ eager to both build on him academic foundations in psychology and sociology and 
-                                 stay in tune with the latest digital marketing strategies through continued coursework                       
+                                I am a Student of Computer science and engineering, with specialization in data analytics. 
+                                 I am fueled by the passion for understanding the patterns in the data and how can it change the way we are looking at things. I consider
+                                 myself a ‘forever student,’ eager to both build on my academic foundations in data science and artificial intelligence and 
+                                 stay in tune with the latest changes in the field of artificial intelligence through continued coursework                       
                                 </p>
                          
                             </Row>

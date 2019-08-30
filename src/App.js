@@ -18,11 +18,10 @@ function App() {
       <Router>
         <Navbar />
         <Layout>
-          <Route exact path = '/' component = {Home} />
+          <Route  exact path = '/' component = {Home} />
           <Route  path = '/Education' component = {Education} />
           <Route  path = '/Skills' component = {Skills} />
           <Route  path = '/Projects' component = {Projects} />
-          <Route  path = '/MyWebsite' component = {Home}/>
         </Layout>
       </Router>
       </React.Fragment>

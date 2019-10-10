@@ -21,7 +21,7 @@ class CoustomNavbar extends Component{
         return(
             <Styles>
     <Navbar expand="lg" scrolling fixed="top">
-      <Navbar.Brand href="/">Amit Maheshwar Varanasi</Navbar.Brand>
+      <Navbar.Brand href=""><Link to="/" >Amit Maheshwar Varanasi</Link></Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto">
